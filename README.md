@@ -11,7 +11,9 @@
 
 - 🏢 Currently exploring new opportunities in the field of Data Science or Data Engineering.
 - 🚀 Former Account Manager at Amazon, Hyderabad.
-<br><br>#### 🚀 Technical Skills<br><br>- 💻 Proficient in Python, SQL, and Advanced Excel.<br>- 📊 Skilled in data visualization tools such as Power BI and Tableau.<br><br>#### 🌱 Learning Journey<br><br>- 📈 Actively pursuing a career transition into Data Science and Data Engineering.<br>- 📚 Constantly learning and staying updated on the latest developments in the field.<br><br>
+<br><br>
+#### 🚀 Technical Skills<br><br>- 💻 Proficient in Python, SQL, and Advanced Excel.<br>- 📊 Skilled in data visualization tools such as Power BI and Tableau.<br><br>
+#### 🌱 Learning Journey<br><br>- 📈 Actively pursuing a career transition into Data Science and Data Engineering.<br>- 📚 Constantly learning and staying updated on the latest developments in the field.<br><br>
 
 
 ### 🎯 Career Goals
