@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hello, I'm Rishabh Verma!<br><br>I hold an MBA in Marketing from the Institute of Engineering and Technology and bring a unique blend of business acumen and technical skills to the table. With a strong foundation in marketing and recent experience as an Account Manager at Amazon, Hyderabad, I have successfully leveraged tools such as SQL, Advanced Excel, and Tableau to drive data-driven decision-making.<br><br>
+### 👋 Hello, I'm Rishabh Verma!<br><br>I hold an MBA in Marketing from the Institute of Engineering and Technology, Lucknow and bring a unique blend of business acumen and technical skills to the table. With a strong foundation in marketing and recent experience as an Account Manager at Amazon, Hyderabad, I have successfully leveraged tools such as SQL, Advanced Excel, and Tableau to drive data-driven decision-making.<br><br>
 #### 💼 Professional Experience
 
 - 🏢 **Data Science Intern | Access Million | Marketing Department**
