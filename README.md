@@ -1,16 +1,9 @@
 # 💫 About Me:
-### 👋 Hello, I'm Rishabh Verma!<br><br>I hold an MBA in Marketing from the Institute of Engineering and Technology, Lucknow and bring a unique blend of business acumen and technical skills to the table. With a strong foundation in marketing and recent experience as an Account Manager at Amazon, Hyderabad, I have successfully leveraged tools such as SQL, Advanced Excel, and Tableau to drive data-driven decision-making.<br><br>
-#### 💼 Professional Experience
+### 👋 Hello, I'm Rishabh Verma!<br><br>I hold an MBA in Marketing from the Institute of Engineering and Technology, Lucknow and bring a unique blend of business acumen and technical skills to the table. With a strong foundation in marketing and recent experience as an Account Health Support Analyst at Amazon, Hyderabad, I have successfully leveraged tools such as SQL, Advanced Excel, and Tableau to drive data-driven decision-making.<br><br>
 
-- 🏢 **Data Science Intern | Access Million | Marketing Department**
-  - *Duration:* [10 Aug, 2023] - [12 Dec, 2023]
-  - *Responsibilities:*
-    1. Conducted exploratory data analysis (EDA) on marketing datasets to identify trends and insights.
-    2. Developed and implemented predictive models to optimize marketing strategies.
-    3. Collaborated with the marketing team, utilizing Python, Pandas, and NumPy for data preprocessing and creating visualizations.
 
 - 🏢 Currently exploring new opportunities in the field of Data Science or Data Engineering.
-- 🚀 Former Account Manager at Amazon, Hyderabad.
+- 🚀 Former Account Health Support Analyst at Amazon, Hyderabad.
 <br><br>
 #### 🚀 Technical Skills<br><br>- 💻 Proficient in Python, SQL, and Advanced Excel.<br>- 📊 Skilled in data visualization tools such as Power BI and Tableau.<br><br>
 #### 🌱 Learning Journey<br><br>- 📈 Actively pursuing a career transition into Data Science and Data Engineering.<br>- 📚 Constantly learning and staying updated on the latest developments in the field.<br><br>
